@@ -58,7 +58,4 @@ node app_em_javascript.js
 * empurrar todos os commits para o repositório
   * git push (local desejado: origin main)
   
-  lalala
-
-
-  teste
+ 
