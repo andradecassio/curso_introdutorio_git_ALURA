@@ -21,3 +21,25 @@ node app_em_javascript.js
 * para dar o commit (enviar alterações): aba Source Control (ctrl+sfht+g), dá o nome e aperta na setinha OK
 
 * clicando na mensagem do commit vc consegue ver todas as alterações que foram feitas nesse estado
+
+* para copiar o projeto na maquina de forma local (clonar o repositório):
+* vai no repositório --- <>code --- e copia o link
+* abre o terminal/powershell
+* para ver os arquivos do diretorio atual
+  * ls
+* para mudar de diretorio
+  * cd 
+  * git clone link
+
+* comando para ver historico de alterações:
+  * git log
+* para ver apenas títulos dos commits: 
+  * git log --oneline
+
+* comando para limpar a tela:
+  * ctrl+L
+
+* se você clonar (git clone) você apaga tudo o que tem localmente e copia o que está no github
+
+* agora para atualizar conforme o estado que está no github, usa-se:
+  * git pull link
