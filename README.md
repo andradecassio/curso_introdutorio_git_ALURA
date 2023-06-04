@@ -53,3 +53,12 @@ node app_em_javascript.js
   * git status
 
 * da pra criar o commit via comando (similar no github) ou via código
+  * git commit (nome do arquivo) -m "titulo do commit"
+
+* empurrar todos os commits para o repositório
+  * git push (local desejado: origin main)
+  
+  lalala
+
+
+  teste
