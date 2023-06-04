@@ -7,7 +7,7 @@
 Exemplo de texto no formato de código
 
 ```
-!pip instal package
+node app_javascript.js
 ```
 
 # Commit
