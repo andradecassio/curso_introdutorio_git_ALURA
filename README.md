@@ -43,3 +43,13 @@ node app_em_javascript.js
 
 * agora para atualizar conforme o estado que está no github, usa-se:
   * git pull link
+
+# Usando VSCode localmente
+
+* pode ser usado o terminal internamente no VSCode
+  * ctrl+J
+
+* para visualizar a situação do momento:
+  * git status
+
+* da pra criar o commit via comando (similar no github) ou via código
