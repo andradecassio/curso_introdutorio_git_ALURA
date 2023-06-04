@@ -19,3 +19,5 @@ node app_em_javascript.js
 * apertando a tecla '.' o VSCode sugere um texto pra html
 
 * para dar o commit (enviar alterações): aba Source Control (ctrl+sfht+g), dá o nome e aperta na setinha OK
+
+* clicando na mensagem do commit vc consegue ver todas as alterações que foram feitas nesse estado
