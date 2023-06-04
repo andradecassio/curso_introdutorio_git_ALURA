@@ -52,6 +52,8 @@ node app_em_javascript.js
 * para visualizar a situação do momento:
   * git status
 
+OBS: salvar o arquivo antes no VSCode para dar o commit!
+
 * da pra criar o commit via comando (similar no github) ou via código
   * git commit (nome do arquivo) -m "titulo do commit"
 
