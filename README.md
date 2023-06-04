@@ -7,7 +7,7 @@
 Exemplo de texto no formato de código
 
 ```
-node app_javascript.js
+node app_em_javascript.js
 ```
 
 # Commit
