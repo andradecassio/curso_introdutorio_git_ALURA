@@ -21,3 +21,9 @@ Histórico:
 * git log -p (visualiza as alterações realizadas)
 * outras personalizações: https://devhints.io/git-log
 
+Ignorar arquivos:
+* criar arquivo chamado gitignore
+* git irá ignorar todos os arquivos que estivem listados nesse arquivo
+* lembrar de adicionar o arquivo: git add gitignore
+* comitar alterações
+
