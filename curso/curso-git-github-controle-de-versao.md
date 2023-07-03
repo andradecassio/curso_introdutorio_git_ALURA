@@ -18,7 +18,7 @@ Configurando usuário apenas para o repositório atual, apenas para esse projeto
 Histórico:
 * git log
 *  git log --oneline (forma resumida)
-* git log -p (visualiza as alterações realizadas)
+* git log -p (visualiza as alterações realizadas --- após o comando aperte a tecla Q para voltar à tela de comando)
 * outras personalizações: https://devhints.io/git-log
 
 Ignorar arquivos:
