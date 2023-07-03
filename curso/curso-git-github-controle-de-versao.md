@@ -27,3 +27,23 @@ Ignorar arquivos:
 * lembrar de adicionar o arquivo: git add gitignore
 * comitar alterações
 
+Criando um servidor:
+
+Suponha que uma pasta local será o servidor C:\git\servidor_local\
+
+* cd servidor_local
+* git init --bare 
+* repositorio puro: so contem alterações dos arquivos, e nao a copis fisica deles
+* (repositorio do git que so vai controlar alteracoes, nao entra pra editar arquivos)
+
+Voltando para uma outra pasta que seja o repositorio do git C:\git\aplicacao\ e fazer com que ele conheça servidor_local como  servidor
+* git remote (lista todos os repositorios remotos que o repositorio em questao conhece)
+* git remote add qq_nome_para_servidor caminho_do_servidor
+* caminho_do_servidor pode ser um endereço url, uma pasta, de um PC, de uma rede
+* git remote -v (mostra os endereços)
+
+Enviando o repositorio para o servidor recem criado:
+* git push servidor_local main (vai enviar dados do branch main para servidor local)
+
+Outra pessoa conectada ao servidor remoto que queira pegar os dados que estão lá:
+* git pull nome_repositorio_remoto branch_destino
