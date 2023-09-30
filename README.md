@@ -16,7 +16,7 @@ node app_em_javascript.js
 * modo como estava o projeto em determinado momento
 
 * segurando a tecla '.' no site do github, ele abre uma versão dev utilizando o VSCODE
-* apertando a tecla '.' o VSCode sugere um texto pra html
+* apertando a tecla '!'+ Enter o VSCode sugere um texto pra html
 
 * para dar o commit (enviar alterações): aba Source Control (ctrl+sfht+g), dá o nome e aperta na setinha OK
 
@@ -82,5 +82,3 @@ OBS: salvar o arquivo antes no VSCode para dar o commit!
   * voltar para branch principal: git switch main
   * git merge (nome da branch que quer enviar para main)
   * git push origin main
-  
- 
