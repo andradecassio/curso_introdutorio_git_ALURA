@@ -56,6 +56,7 @@ OBS: salvar o arquivo antes no VSCode para dar o commit!
 
 * da pra criar o commit via comando (similar no github) ou via código
   * git commit (nome do arquivo) -m "titulo do commit"
+  * git commit . -m "titulo do commit" (para todos os arquivos)
 
 * empurrar todos os commits para o repositório
   * git push (local desejado: origin main)
