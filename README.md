@@ -71,5 +71,16 @@ OBS: salvar o arquivo antes no VSCode para dar o commit!
 
 * voltar para a branch principal
   * git switch main
+
+* Fez alguma alteração na branch desenvolvimento e quer enviar alterações (ainda na branch desenvolvimento):
+  * git add arquivo
+  * git commit -m "mensagem do commit"
+  * git push origin desenvolvimento
+ 
+* Pegar o que está na branch desenvolvimento e mandar para main: MERGE
+  * git branch: mostra as branch disponiveis e em qual está atualmente
+  * voltar para branch principal: git switch main
+  * git merge (nome da branch que quer enviar para main)
+  * git push origin main
   
  
