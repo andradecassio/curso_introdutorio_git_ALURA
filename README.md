@@ -60,5 +60,16 @@ OBS: salvar o arquivo antes no VSCode para dar o commit!
 
 * empurrar (ENVIAR) todos os commits para o repositório
   * git push (local desejado: origin main)
+ 
+* após fazer alguma alteração em arquivo ou inserção de arquivo:
+  *  git add (nome do arquivo)   ou git add .
+  *  git commit (nome do arquivo) -m "mensagem do commit"
+  *  git push
+
+* criar uma ramificação (branch) e já vai para ela
+  *  git checkout -b (nome da branch)
+
+* voltar para a branch principal
+  * git switch main
   
  
