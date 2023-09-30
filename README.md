@@ -58,7 +58,7 @@ OBS: salvar o arquivo antes no VSCode para dar o commit!
   * git commit (nome do arquivo) -m "titulo do commit"
   * git commit . -m "titulo do commit" (para todos os arquivos)
 
-* empurrar todos os commits para o repositório
+* empurrar (ENVIAR) todos os commits para o repositório
   * git push (local desejado: origin main)
   
  
