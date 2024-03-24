@@ -43,7 +43,8 @@ Voltando para uma outra pasta que seja o repositorio do git C:\git\aplicacao\ e 
 * git remote -v (mostra os endereços)
 
 Enviando o repositorio para o servidor recem criado:
-* git push servidor_local main (vai enviar dados do branch main para servidor local)
+* git push servidor_local main (vai enviar dados do branch main para servidor servidor_local)
+* OBS: main pode ter o nome 'master'
 
 Outra pessoa conectada ao servidor remoto que queira pegar os dados que estão lá:
 * git pull nome_repositorio_remoto branch_destino
